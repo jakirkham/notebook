@@ -2,7 +2,7 @@
 # Another Docker container should inherit with `FROM jupyter/notebook`
 # to run actual services.
 
-FROM ubuntu:14.04
+FROM debian:jessie
 
 MAINTAINER Project Jupyter <jupyter@googlegroups.com>
 
