@@ -20,7 +20,6 @@ RUN apt-get update -qq && \
         ca-certificates \
         curl \
         git \
-        language-pack-en \
         libcurl4-openssl-dev \
         libffi-dev \
         libsqlite3-dev \
